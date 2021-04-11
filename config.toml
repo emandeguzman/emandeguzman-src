@@ -2,3 +2,9 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anatole"
+
+[params]
+title = "My Collection"
+author = "Eman de Guzman"
+description = "My collection of work, libraries, pointers and some other things to serve as a reminder"
+#profilePicture = "images/profile.jpg"
